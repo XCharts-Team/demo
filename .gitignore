@@ -1,0 +1,9 @@
+/.vs
+/.vscode
+.vs
+/Library
+/Temp
+/Logs
+/obj
+/iOS
+sync.sh
